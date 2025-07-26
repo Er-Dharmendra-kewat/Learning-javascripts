@@ -1,0 +1,13 @@
+.logo {
+    background-color: brown;
+    color: white;
+    font-weight: 700;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+.nav-links {
+    list-style: none;
+    background-color: lightcoral;
+
+}
